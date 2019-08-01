@@ -43,7 +43,7 @@ Category description:
 
 
 The repositoy contains:
-1.input: raw data provided
+1.input: raw data provided and files of grouped categories
 2.preprocesado.R: r script that process data. The result is dd.rdata file 
 3. app: shiny app
 -app.R: R shiny script
