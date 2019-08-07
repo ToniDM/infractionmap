@@ -1,6 +1,9 @@
 you can check the app here: 
 [https://adiaz.shinyapps.io/infractionmap/]
 
+**winner** of `1st data visualization with R` contest:
+[https://rusersasturias.github.io/contest/]
+
 # infractionmap
 Interactive map of fines register in Gijon from years 2015 to 2017
 User can apply the following filters: 
