@@ -1,3 +1,6 @@
+you can check the app here: 
+[https://adiaz.shinyapps.io/infractionmap/]
+
 # infractionmap
 Interactive map of fines register in Gijon from years 2015 to 2017
 User can apply the following filters: 
@@ -42,10 +45,10 @@ Category description:
 - traffic light: omit a traffic light 
 
 
-The repositoy contains:
-1.input: raw data provided and files of grouped categories
-2.preprocesado.R: r script that process data. The result is dd.rdata file 
+**The repositoy contains**:
+1. input: raw data provided and files of grouped categories
+2. preprocesado.R: r script that process data. The result is dd.rdata file 
 3. app: shiny app
--app.R: R shiny script
--styles.css: css file defining html styles
--dd.rdata: processed data from script preprocesado.r
+- app.R: R shiny script
+- styles.css: css file defining html styles
+- dd.rdata: processed data from script preprocesado.r
